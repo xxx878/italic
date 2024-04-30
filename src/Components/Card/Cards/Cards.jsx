@@ -12,14 +12,12 @@ function Cards() {
     <Card style={{ width: '18rem' }}>
       <Card.Img variant="top" src={img2} />
       <button>Quick View</button>
-     
       <Card.Body>
         <Card.Title>Aura Contour Jacket</Card.Title>
         <Card.Subtitle className='mb-2 text-muted'>Sama manufacturer as</Card.Subtitle>
         <Card.Text>Vikebrequin  Stella McCartney</Card.Text>
         <Card.Text>$58</Card.Text>
         <Card.Subtitle className='mb-2 text-muted'>2 COLORS</Card.Subtitle>
-
       </Card.Body>
 
       <Card.Img variant="top" src={img3}/>
